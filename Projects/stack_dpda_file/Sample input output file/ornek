@@ -1,0 +1,8 @@
+inputlari gercekleyip accepted veya rejected olduguna karar vericez
+dpda 1. satirda state ler ve baslangic ve bitis stateleri var
+baslangic state i bir tane var galiba
+e empty buyuk ihtimalle
+A:input filedaki semboller
+Z:stackte olabilecek semboller
+T:state_number, inputtaki_semboller_sirasina_gore_Tler_siralanirken_bakilacak, stackten_poplanacak, bir_sonraki_state_number, stacke_eklenecek
+
